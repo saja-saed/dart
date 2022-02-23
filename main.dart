@@ -7,7 +7,9 @@ void main() {
             backgroundColor: Colors.white,
             foregroundColor: Colors.black,
             title: Center(
-              child: Text("Home Screen"),
+              child: Text(
+                "Home Screen",
+              ),
             ),
           ),
           body: Container(
